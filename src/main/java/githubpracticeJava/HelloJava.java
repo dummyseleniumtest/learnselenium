@@ -7,7 +7,7 @@ public class HelloJava {
 		
 		
 		
-		System.out.println("Hello selenium");
+		System.out.println("Hello java");
 
 	}
 
